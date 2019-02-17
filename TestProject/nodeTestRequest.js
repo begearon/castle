@@ -1,5 +1,6 @@
 'use strict';
-TRIP_STAUTS_INITIATED: 1000;
+const LOAD_FUNCTIONS_TO_WAIT = 4;
+const RESTAURANTS_PER_PAGE_MICHELIN = 10;
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 let jsdom = require('jsdom').JSDOM;
 var finishedCount = 0;
@@ -7,12 +8,23 @@ var starredNames = [];
 var allDetails;
 
 var gotAllDetailsCb = function() {
-	console.log('Called back: '+ starredNames.length + " Michelin Restaurants and all of their details downloaded");
-	for (var key in allDetails) {
-		if (allDetails.hasOwnProperty(key)) {
-			//console.log(i + ". " + allDetails[key].RC_CODE);
+	console.log('Called back: '+ Object.keys(starredNames).length + " Michelin Restaurants and all of their details downloaded.");
+	var keys = Object.keys(allDetails);
+	for (var i = 0; i < keys.length; i++) {
+		if(starredNames[allDetails[keys[i]].RC_CODE]) {
+			if(allDetails[keys[i]].countryName == "France" && starredNames[allDetails[keys[i]].RC_HOTEL] != "0") {
+				starredNames[allDetails[keys[i]].RC_CODE] = keys[i];
+				console.log(allDetails[keys[i]].RC_CODE + "     " + keys[i]);
+			} else {
+				delete starredNames[allDetails[keys[i]].RC_CODE];
+			}
 		}
 	}
+	keys = Object.keys(starredNames);
+	for (var i = 0; i < keys.length; i++) { //deleting all the restaurants, who are not in the members list
+		if(starredNames[keys[i]] < 0) delete starredNames[keys[i]];
+	}
+	console.log('There are '+ Object.keys(starredNames).length + " Michelin Starred Hotel-Restaurants in France: " + Object.keys(starredNames));
 };
 
 getStarredNames(1, 1, gotAllDetailsCb);
@@ -24,9 +36,10 @@ function getRestaurantDetails(gotAllDetailsCb) {
 	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = function() {
 		if (this.readyState === 4) {
-			var allDetails = JSON.parse(this.responseText.substr(1));
+			allDetails = JSON.parse(this.responseText.substr(1));
+			//console.log(allDetails);
 			finishedCount++;
-			if(finishedCount == 4) gotAllDetailsCb();
+			if(finishedCount == LOAD_FUNCTIONS_TO_WAIT) gotAllDetailsCb();
 		}
 	};
 	var myUrl = "https://api.relaischateaux.com/dsGHsfg4/members";
@@ -41,19 +54,25 @@ function getStarredNames(page, stars, gotAllDetailsCb) {
 	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = function() {
 		if (this.readyState === 4) {
-			console.log("page:   " + page + "   star:    " + stars + "  arraylength:  " + starredNames.length + "  finished:  " + finishedCount);
-			var realData = JSON.parse(this.responseText);
+			try {
+				var realData = JSON.parse(this.responseText);
+			} catch(err) {
+				console.log(err.message + " (page: " + ", stars: " + stars + ")");
+				getStarredNames(page, stars, gotAllDetailsCb);
+				return;
+			}
 			let html = '' + realData["content"],
 			dom = new jsdom(html),
 			window = dom.window;
 			var i = 0;
 			while (window.document.querySelectorAll('a[data-name]')[i]) {
-				starredNames.push(window.document.querySelectorAll('a[data-name]')[i].dataset['name']);
+				starredNames[window.document.querySelectorAll('a[data-name]')[i].dataset['name']] = -1;
 				i++;
 			}
-			if(i==10) getStarredNames(++page, stars, gotAllDetailsCb);
+			console.log("page:   " + page + "   star:    " + stars + "  arraylength:  " + Object.keys(starredNames).length + "  finished:  " + finishedCount);
+			if(i == RESTAURANTS_PER_PAGE_MICHELIN) getStarredNames(++page, stars, gotAllDetailsCb);
 			else finishedCount++;
-			if(finishedCount == 4) gotAllDetailsCb();
+			if(finishedCount == LOAD_FUNCTIONS_TO_WAIT) gotAllDetailsCb();
 		}
 	};
 	var myUrl;
