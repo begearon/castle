@@ -1,26 +1,32 @@
 'use strict';
+TRIP_STAUTS_INITIATED: 1000;
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 let jsdom = require('jsdom').JSDOM;
 var finishedCount = 0;
 var starredNames = [];
 var allDetails;
-// getStarredNames(1,1);
-// getStarredNames(1,2);
-// getStarredNames(1,3);
-getRestaurantDetails();
 
-function getRestaurantDetails() {
+var gotAllDetailsCb = function() {
+	console.log('Called back: '+ starredNames.length + " Michelin Restaurants and all of their details downloaded");
+	for (var key in allDetails) {
+		if (allDetails.hasOwnProperty(key)) {
+			//console.log(i + ". " + allDetails[key].RC_CODE);
+		}
+	}
+};
+
+getStarredNames(1, 1, gotAllDetailsCb);
+getStarredNames(1, 2, gotAllDetailsCb);
+getStarredNames(1, 3, gotAllDetailsCb);
+getRestaurantDetails(gotAllDetailsCb);
+
+function getRestaurantDetails(gotAllDetailsCb) {
 	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = function() {
 		if (this.readyState === 4) {
 			var allDetails = JSON.parse(this.responseText.substr(1));
-			var i = 1;
-			for (var key in allDetails) {
-				if (allDetails.hasOwnProperty(key)) {
-					console.log(i + ". " + allDetails[key].RC_CODE);
-					i++;
-				}
-			}
+			finishedCount++;
+			if(finishedCount == 4) gotAllDetailsCb();
 		}
 	};
 	var myUrl = "https://api.relaischateaux.com/dsGHsfg4/members";
@@ -30,7 +36,8 @@ function getRestaurantDetails() {
 }
 
 
-function getStarredNames(page, stars) {
+
+function getStarredNames(page, stars, gotAllDetailsCb) {
 	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = function() {
 		if (this.readyState === 4) {
@@ -44,9 +51,9 @@ function getStarredNames(page, stars) {
 				starredNames.push(window.document.querySelectorAll('a[data-name]')[i].dataset['name']);
 				i++;
 			}
-			if(i==10) getStarredNames(++page, stars);
+			if(i==10) getStarredNames(++page, stars, gotAllDetailsCb);
 			else finishedCount++;
-			if(finishedCount == 3) console.log(starredNames);
+			if(finishedCount == 4) gotAllDetailsCb();
 		}
 	};
 	var myUrl;
