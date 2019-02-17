@@ -1,0 +1,1559 @@
+{
+    "status": 200,
+    "content": "<div action=\"results-container\">
+            <div class=\"row no-gutter\">
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/7971d469f3d001a9278e2855b9821681135dfa10\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/b86091083977027494c08d124b0933b92e7e36cb\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/d85bc64e55a581ba527c8f1c53839c277f9d1976\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/c2374ad7f80ecab51a465ca15bb47a14f3f4a212\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/01d24f60e70ad4cb235d32757dade555bc01596b\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/438352caebf58f1bc0437a949e423bc350bd393b\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/ff3b9b22b434627347eb885ecf2f1f7ea3934384\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/d9ed26257b9b0524baa83e45ae3048dfb0a031e5\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/d596cf74f5b56ed834aae8da34636991b4aa111d\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/etats-unis/perse-new-york\"><span itemprop=\"name\">Per Se</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">New York</span> - 
+                                <span >New York,</span>
+                <span itemprop=\"addressCountry\">Etats-Unis</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant en ville.</strong> Après le succès de son restaurant californien – The French Laundry –, le Chef emblématique Thomas Keller, 3 étoiles au Guide Michelin, a apporté son savoir-faire unique à Manhattan. Son style tient à la remarquable attention qu'il accorde aux détails, non seulement en cuisine, mais aussi dans la présentation, l’ambiance et le cadre. Dans cet élégant restaurant avec vue sur Central Park, le Chef Corey Chow interprète en cuisine des recettes américaines modernes avec une légère influence française. Parmi les plats emblématiques, Huîtres et Perles – sabayon de perles de tapioca, huîtres pochées et caviar –, ou encore la Calotte de bœuf grillée. De tels délices culinaires donnent à penser que la perfection est de ce monde.
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+                                        <div class=\"tripAdvisorRating fzXXXXSmall\" itemprop=\"aggregateRating\" itemscope itemtype=\"//schema.org/AggregateRating\">
+                        <div>TripAdvisor</div>
+
+                
+                                    
+
+                
+                
+    <img src=\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-21400-5.png\" alt=\"TripAdvisor\" title=\"TripAdvisor - 4.5\" />
+
+        <img class=\"is-hidden\" property=\"image\" src=\"https://media.relaischateaux.com/public/hash/ee6e54418f8a77ebaf68e1b206f55d4d9c6addc1\" alt=\"Per Se\"/>
+                        
+                </div>
+                    
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">314,29</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"perse\"
+                   href=\"https://www.relaischateaux.com/fr/etats-unis/perse-new-york#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/c299170d022e4692682d81883650359c468e39ca\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/75a45bd401805c04bd99abbf4222c3fc0ab959a7\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/409100d86ebea465999fa556b3753ff166712514\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/452b619ec49c63357cbe9f144b7f0fc93efa1467\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/0ea9479d1f70b5a7634305836c30a4c7d40b6175\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/43d9725049574ac796af75c15918ed71b6fc1152\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/71a140eb0f09ac809eefc66650f81ebc7d60649c\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/89e4f2cfde6101413f38bcc6173ef20c0f0967de\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/783f3020ff4c931bec32113c8063b2378bf68c6a\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/86467fd91e219d5c537e23cff7ce24247ed4ca03\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/ba3a99641e44524406f97c241b037c127185fd7b\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/4110d6412f1dc327ebbe0f02ea9f90a921e890e3\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/33feb2d5423748b87fb2b9864d537bb6bf7ae2ec\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/france/gagnaire-paris\"><span itemprop=\"name\">Pierre Gagnaire</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">Paris</span> - 
+                <span itemprop=\"addressCountry\">France</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant en ville.</strong> Le nouveau décor du restaurant est signé Carolyn Quatermaine : des collages, des pages de livre sur lesquelles sont venus s’imprimer homards, écrevisses, artichauts… Un hommage aux mots que Pierre Gagnaire, cuisiniercréateur, aime tant. Si l’esthétique des plats, sa signature, est toujours travaillée, sa cuisine s’enrichit d’une recherche de sensation, de sens et de goût. Les plats, tels « L’été » ou « Homard et huiles d’olive d’origine », se font thématiques et racontent une histoire dans laquelle les ingrédients et les préparations se répondent. Pour partager quelques secrets de ce Chef hors du commun, une table pour deux (appelée GT) est installée en cuisine.
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+                                        <div class=\"tripAdvisorRating fzXXXXSmall\" itemprop=\"aggregateRating\" itemscope itemtype=\"//schema.org/AggregateRating\">
+                        <div>TripAdvisor</div>
+
+                
+                                    
+
+                
+                
+    <img src=\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-21400-5.png\" alt=\"TripAdvisor\" title=\"TripAdvisor - 4.5\" />
+
+        <img class=\"is-hidden\" property=\"image\" src=\"https://media.relaischateaux.com/public/hash/941b6cba00f279a8c1d3455734371be0add1313c\" alt=\"Pierre Gagnaire\"/>
+                        
+                </div>
+                    
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">150,00</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"gagnaire\"
+                   href=\"https://www.relaischateaux.com/fr/france/gagnaire-paris#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/39f4932aedf28f8906b6dd5a1c9ac95b2a8d3856\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/caec4effa3f0b35b2928076fcee3bc7fa4889025\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/04a100f0fb4e9bb83825f93a412593d77edfb250\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/bf589d0500cbd66af2ee4dadea2a6677fc49ef39\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/8aaa2ca66c002787a4e4179bc6f39185c7ec74f6\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/028e2c282d6fbb48d8f6c6474fa9473872dbab60\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/f58318c0b546ce6c53163ed5a4cc9c6659f4b263\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/5d7acded5414b066ae37058d8e25dd6a54c750b0\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/82a8e38ac00bd397fd5cc9c0881a3b4c222ea69d\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/d90886e5bc29b295ea3bbe13565479931427183e\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/4fb259d8d14bb28d8e8ec150f49f9c88b2cf39fd\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/3cd27de2241bf411793a0747d3044147582e8edf\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/5d8a043359b948352c9135e85a7f02e6a4129169\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/5eacf03b35f5f76d8ca41f7f20a7568593401050\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/a841393bc3dbd951fbfe390ea186af47038c55e0\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/932465e975dbd11fd79687fc07f12cb3bd6d9899\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/5931687a4c4ea9147cea59b63b8aaa385ce14797\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/2ab5bbb1ed960b3e4eb5f6b3a5c6fefb81f21fde\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/742d390482b7b1037affaf5008326d2d8886054d\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/66cf7d7e7e3b4bdf6fb85745b0bad68ab9ca7427\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/66cf2f0ac0c149e5ba4afed21018ec49b550814f\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/3fd9a713ade9692cac824a71c262e1e5566323fd\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/etats-unis/quince-san-francisco\"><span itemprop=\"name\">Quince Restaurant</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">San Francisco</span> - 
+                                <span >Californie,</span>
+                <span itemprop=\"addressCountry\">Etats-Unis</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant en ville.</strong> Dans le quartier de Jackson Square, l'un des plus anciens et des plus charmants de San Francisco, une maison typique et centenaire abrite l'une des adresses les plus raffinées de toute la ville. Le Chef Michael Tusk y crée une cuisine californienne aux influences françaises et italiennes, préparée uniquement à base de produits fournis par un réseau rigoureusement sélectionné de petits producteurs et fermiers de la région. Le même soin est apporté au choix des vins. Dans un cadre élégant d'inspiration Art déco, vous dégusterez à deux un canard rôti entier servi avec de l'ail noir et des reines-claudes ou bien accompagné d'un risotto aux cardons, aux cèpes et à la truffe blanche.
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+                                        <div class=\"tripAdvisorRating fzXXXXSmall\" itemprop=\"aggregateRating\" itemscope itemtype=\"//schema.org/AggregateRating\">
+                        <div>TripAdvisor</div>
+
+                
+                                    
+
+                
+                
+    <img src=\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-21400-5.png\" alt=\"TripAdvisor\" title=\"TripAdvisor - 4.5\" />
+
+        <img class=\"is-hidden\" property=\"image\" src=\"https://media.relaischateaux.com/public/hash/ebd5471e11b694a843fe98d6a1930b1c9df8c974\" alt=\"Quince Restaurant\"/>
+                        
+                </div>
+                    
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">194,77</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"quince\"
+                   href=\"https://www.relaischateaux.com/fr/etats-unis/quince-san-francisco#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/efd428540c85944722183e521ca2bd3f4935bff5\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/81e0283f366b0fea17ab97d9fc7e956f6de5d732\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/58dfcefdc9550050dcdfffbdeab11f5eac009112\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/949b18ede358e68e1c4a9d800d213bd7e96f57d1\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/ad9078cd97e1fe7a2b99e0cfd98365f175b5c1ea\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/771986ac8b2817712fae210045baeecd0f19118e\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/561b37afbd388a46e5b5b699eadc43c804843561\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/9b726295af0b0c4d0cc9954331a9aff4176d0837\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/6ec23ee3dfaa381215769f360e3c7c4c4c587243\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/27111872c1c82025050b2f989ae764d32612db25\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/55cbdd17c2008c351f42b22e05b36cf820202bc7\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/6e795057307ca1003160b3133a49c672215a800c\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/d58b5373b81b84f14889bb96c109f648e764e53d\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/75eb12f3b58e3bdc19b3c135a2c9d2a0760099ca\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/9bd0f528f054938d6f86982bea072be4abb45c58\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/f6561d7b7eb1f5500efc8a365d29bb8aef53f8ca\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/dd4124d4e33f0b331fa5935bc45e2642b5928902\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/4766842c37b21a133997b16744193344d3bf5b67\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/255b164eef2355750c1856c098a6f712ff97611c\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/france/mirazur-alpes-maritimes-menton\"><span itemprop=\"name\">Restaurant Mirazur</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">Menton</span> - 
+                <span itemprop=\"addressCountry\">France</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant en bord de mer.</strong> Accrochée à la montagne et surplombant la mer, cette majestueuse bâtisse des années trente est devenue le lieu d'expression du Chef Mauro Colagreco. Prolongée d'un superbe jardin en terrasse, elle offre une vue magnifique sur Menton et la Méditerranée. En cuisine, l'on s'affaire à créer les plats imaginés par ce jeune Chef d'origine italo argentine  qui puise son inspiration autant dans les légumes rares et les jeunes pousses des jardins du Mirazur. Son risotto de quinoa, champignons de sous-bois et crème de parmesan, ou encore la pêche du jour accompagnée de purée de céleri-rave et sauce fumée invitent à vivre des expériences gustatives originales.
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+                                        <div class=\"tripAdvisorRating fzXXXXSmall\" itemprop=\"aggregateRating\" itemscope itemtype=\"//schema.org/AggregateRating\">
+                        <div>TripAdvisor</div>
+
+                
+                                    
+
+                
+                
+    <img src=\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-21400-5.png\" alt=\"TripAdvisor\" title=\"TripAdvisor - 4.5\" />
+
+        <img class=\"is-hidden\" property=\"image\" src=\"https://media.relaischateaux.com/public/hash/b3cfc022a562d79cdc77bd3974ef1bc7b3690926\" alt=\"Restaurant Mirazur\"/>
+                        
+                </div>
+                    
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">110,00</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"mirazur\"
+                   href=\"https://www.relaischateaux.com/fr/france/mirazur-alpes-maritimes-menton#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/d6584ecae7630c63a4742d7e8246df939e94cbd2\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/7fc8504a9587d8abeac6831c6e1481b99d22e1d9\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/ce3c118519042c809e5a8cebd13037a186f844a9\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/6b564fa1c43dea1bc0b70f317d791450fdeec8f4\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/99c1fa548e1b1d09bd811ffb6c87953814f8aa02\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/486395174a5f35caa458dff1fef47972729ad010\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/6fa72715186b8aaa8b3aa090f1e541ff9eacaaf3\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/f96106468c517b0eda82aba0546742f7cae95094\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/8fb092f41dafe8f344aa305789edc00c2f656021\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/0f002a7a5b0868b9427f46fbfbfd42ecad0098cb\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/c803fe167f5b80a715a9afa7ab88113f95404a55\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/d4afe06e99d5214dbfe5be061ef45c2c1936ff12\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/87a723d8c1f43f7780d6a7eeb26f40665efafac4\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/3a301d5fa7c2ef5c937201d317ba9e6a8c7549b1\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/14dd115dae2140003bca2c0481117b1c13496fae\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/fcaf6883c3e8e20c313930030e21d921238d4b9c\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/f08db968574ed45b7d3e0017c92718de83dab6a8\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/ec12ddc8808cf13ae9656e98b7667330ee194eaa\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/5ce40c690af9348f415ed822df45c5abd5f77efb\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/78fd8e8ae4c60c24620b199415d979fcdb8415d2\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/cff94316c24da4bb3fa760835d558ab85dde97a8\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/183484d1889382c93bc2ec8237cda8b16aa4dae2\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/73e57f75e18d76d7006482a8de523eceabaa64b7\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/9255aca2ec00bf22b2f752a6a999e27de4ab3bcc\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/a396e8dd4e210950e9c85e0977f0fb0a2363b1cd\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/f2ae693f54d249702791c532a431466c57babb7a\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/df82a850e2e04b3b07c07a0b810caad34d59debf\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/6b4c68226056304722106ba31cecedd889b9ccb0\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/japon/moliere-hokkaido-sapporo\"><span itemprop=\"name\">Restaurant Molière</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">Sapporo</span> - 
+                <span itemprop=\"addressCountry\">Japon</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant en ville.</strong> Situé dans un quartier calme et résidentiel de Sapporo, le restaurant Molière arbore de vastes baies vitrées d’où vous pourrez admirer le parc Maruyama. Dans un décor clair et moderne, vous dégusterez une cuisine française mondialement reconnue, exécutée avec brio par le Chef Hiroshi Nakamichi et l’équipe formée à ses côtés depuis plus de vingt ans. Ses plats sont un hommage à la richesse des ressources naturelles d’Hokkaido. Derrière un apparent classicisme, le Chef sublime les ingrédients locaux tels le canard servi grillé avec un confit de salsifis, le bœuf Tokachi, l’agneau de pays rôti parfumé de fines herbes, ou encore le turbotin préparé en carpaccio et accompagné de légumes de saison.
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+                                        <div class=\"tripAdvisorRating fzXXXXSmall\" itemprop=\"aggregateRating\" itemscope itemtype=\"//schema.org/AggregateRating\">
+                        <div>TripAdvisor</div>
+
+                
+                                    
+
+                
+                
+    <img src=\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-21400-5.png\" alt=\"TripAdvisor\" title=\"TripAdvisor - 4.5\" />
+
+        <img class=\"is-hidden\" property=\"image\" src=\"https://media.relaischateaux.com/public/hash/f2b1fa20a9021b64cd55f190ccb826e1876e5292\" alt=\"Restaurant Molière\"/>
+                        
+                </div>
+                    
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">36,85</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"moliere\"
+                   href=\"https://www.relaischateaux.com/fr/japon/moliere-hokkaido-sapporo#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/a30f694ff9d2b00309a4b5e1d04680f2b12ddb66\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/9035cbbdbfad3a9cc4534ae87a0ff9ccd3017ac8\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/cba3063750345779d0423595da7184a497bb33f8\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/13c536e0e32e6de95a169d4099d8831dd8c18f36\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/24bc9dd5279c687c8a7d6f519cfbe7a962eca573\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/5316a443a3f2691a9eb58507d52b449ab9827d42\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/d9790ca5f0ef8949fff2c9efa35b36e971870b2e\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/4923d41653c2f40ef3880422b65a704ae6cac73a\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/4a95ca1350b9aa6e2a1a7ba60d15dbda1963ce65\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/3d9f172b016157be68bb01aef1fba7b1fcc39cac\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/d055dc832efa2fec384e7f609afecfd81f35c785\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/ce10ac8db73516f3437e61d8c436865384f7af40\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/d47e1bd1c3ba9e85537f0f05b87b1cf65278fa74\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/1ea0034dce1bf922c18c149ce9c581965644f891\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/espagne/arzak-guipuzcoa-donostia-san-sebastian\"><span itemprop=\"name\">Restaurante Arzak</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">Donostia San Sebastián</span> - 
+                <span itemprop=\"addressCountry\">Espagne</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant en ville.</strong> Au restaurant familial Arzak souffle un fort vent d'innovation. C’est Juan Mari qui, en 1977, fut à l’avant-garde de la nouvelle cuisine basque qui mêle créativité et « techno-cuisine », une façon révolutionnaire de faire chanter la région dans l’assiette. Sa fille Elena l’accompagne dans cette aventure gastronomique en apportant sa sensibilité et sa grande rigueur à l'esprit indomptable et créatif de Juan Mari. Leur tandem fait merveille dans un répertoire qui associe merlu local, calmar pris à la canne à pêche ou ventrèche de thon à des arômes du monde entier – tamarin, hibiscus, rhubarbe, peau de mangue, noix de coco, chocolat fumé, réglisse et anis étoilé.
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+                                        <div class=\"tripAdvisorRating fzXXXXSmall\" itemprop=\"aggregateRating\" itemscope itemtype=\"//schema.org/AggregateRating\">
+                        <div>TripAdvisor</div>
+
+                
+                                    
+
+                
+                
+    <img src=\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-21400-5.png\" alt=\"TripAdvisor\" title=\"TripAdvisor - 4.5\" />
+
+        <img class=\"is-hidden\" property=\"image\" src=\"https://media.relaischateaux.com/public/hash/d55b80fc196983193c8dcf62b69b97d1f0a41318\" alt=\"Restaurante Arzak\"/>
+                        
+                </div>
+                    
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">215,00</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"arzak\"
+                   href=\"https://www.relaischateaux.com/fr/espagne/arzak-guipuzcoa-donostia-san-sebastian#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/be1639b1ed7838689c200d61f5031edf86f537ea\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/b857c6c6e5bfd509f94dc190ffcb8c30a52c33ac\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/130a82284e9d3c17b46ded134ac48532f117fec0\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/e91bd235dc7f28f321acb2fbdce35feabd8600fb\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/1f160924300c7ede06877ac742cb60dfdabc72fd\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/9b66733c3f36291d9110e6f09617524745e0fa12\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/87cbd4da8eb06fba3ce0aba6c87214c95a70aa43\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/espagne/restaurant-dani-garcia-malaga-marbella\"><span itemprop=\"name\">Restaurante Dani García</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">Marbella</span> - 
+                <span itemprop=\"addressCountry\">Espagne</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant en ville.</strong> Situé dans sa ville natale, le restaurant de Dani García est une invitation à partager une expérience culinaire originale et la vision innovante qu’a ce Chef de la cuisine andalouse. Sans rien renier de ses racines, il joue avec les textures, les saveurs ou le contraste du chaud et du froid. Le résultat est brillant, un mélange de tradition et d’avant-garde, de haute technologie et de recettes ancestrales : la pulpe de cerise se mêle au gazpacho, et le porc ibérique rencontre aubergines fumées et pommes de terre soufflées. Cette partition s’exécute sous les yeux des convives, qui, depuis la belle salle aux murs végétalisés, peuvent observer la cuisine aux allures de laboratoire.
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+            
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">220,00</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"danigarcia\"
+                   href=\"https://www.relaischateaux.com/fr/espagne/restaurant-dani-garcia-malaga-marbella#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/7e0833817774a2704daf1207c55f1c3adfa24501\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/46f5396716aac67b121d810740d5a90480412f3b\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/d27310ad76ec29727ca074bbcd7007934e6a3710\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/6d3e047c5da889e3760a2105536899574dd0fed3\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/83c8ab036ae39ebf32cb470a264b21aa893fc526\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/b94eb8d5c583f39361317a7811d4b5e595f59ba3\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/5ab46fdb147101bf971f5df52ace678769e8833a\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/63036ab740d93aa4218fb484d8114f860c2031e4\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/808386cab4dfd8bdf8ce641ae05a0dcb27a1c149\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/74ab05859ae35221161ce550806636e34dd3d298\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/f06cfee92bd37e7464f7a9e177d4102ad71677c5\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/6c7a9fbac5c20a4a73927d61bc3c0346d44ae514\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"https://media.relaischateaux.com/public/hash/7eebf93306ad52584a7d0d582d438749055bb441\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/espagne/berasategui-guipuzcoa-lasarte-oria\"><span itemprop=\"name\">Restaurante Martín Berasategui</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">Lasarte-Oria</span> - 
+                <span itemprop=\"addressCountry\">Espagne</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant à la campagne.</strong> « La bonne cuisine, celle qui s'écrit en majuscules, n'est la propriété de personne : elle appartient à tous ceux qui travaillent derrière les fourneaux depuis la nuit des temps. » Ainsi parle le Chef Martín Berasategui, qui a fait de ce restaurant du Pays basque, près de l'un des chemins des pèlerins de Compostelle, un temple culinaire. Parmi ses créations les plus audacieuses, on distingue l'ail noir sauté et le ceviche de betterave. Un autre de ses plats emblématiques est le rouget aux cristaux d'écailles comestibles, aux germes de soja et à la seiche. L'atmosphère séduisante s'harmonise à merveille avec l'exquise cuisine, les excellents vins et le service exceptionnel.
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+                                        <div class=\"tripAdvisorRating fzXXXXSmall\" itemprop=\"aggregateRating\" itemscope itemtype=\"//schema.org/AggregateRating\">
+                        <div>TripAdvisor</div>
+
+                
+                                    
+
+                                            
+                
+    <img src=\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/5.0-21400-5.png\" alt=\"TripAdvisor\" title=\"TripAdvisor - 5\" />
+
+        <img class=\"is-hidden\" property=\"image\" src=\"https://media.relaischateaux.com/public/hash/b2ccd0f181bd6467f55af44cbde04234968c756e\" alt=\"Restaurante Martín Berasategui\"/>
+                        
+                </div>
+                    
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">220,00</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"berasategui\"
+                   href=\"https://www.relaischateaux.com/fr/espagne/berasategui-guipuzcoa-lasarte-oria#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/a01774ccde715fac26c1d2b32962629c3f58a317\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/e4bce826a36b482e437582da19cf29b3dacd581d\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/12168234bf656130cdd5021de06b339bcfafab76\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/b3ec8b3608bc1e16b03fc893f31d63417360980a\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/fc3dcad0bf10e2f2cf54db41a4da765fb425804d\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/51d4c00afa718b6db62d9f4cbbf154326224f01b\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/fc4e8086bdc2f4976ccafb7933beba22ec3f74eb\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/1fd78b80c8c8e917b3ab369dbea712ab795238b5\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/f258eaa135b92323a07cd9cf11aab493c144b282\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/50315fae8d8b87d902c7b48c20fb75ae3affbed8\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/94b505f8a9b8f2869b81399ebabd72934062aabf\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/italie/enoteca-toscana-florence\"><span itemprop=\"name\">Ristorante Enoteca Pinchiorri</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">Florence</span> - 
+                <span itemprop=\"addressCountry\">Italie</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant en ville.</strong> Le Chef Annie Féolde, surnommée la « diva de la cuisine », est la première femme à obtenir 3 étoiles en Italie et seulement la quatrième au monde. Elle crée une cuisine innovante, et utilise uniquement des produits italiens de la meilleure qualité. Les grands crus choisis par le sommelier Giorgio Pinchiorri, son compagnon de vie depuis plus de quarante ans, exaltent sa cuisine. Enoteca est situé dans un palais Renaissance au coeur de Florence. Le menu comprend : fusilli al ferretto et petits encornets au vin blanc, artichauts et poutargue ; blanc de pigeonneau double et petits pois fins à la menthe, beignet de pommes de terre sauce aux gésiers ; truffe et chocolat caramélisé, pamplemousse rose et lait d’amandes. Un service impeccable et un accueil chaleureux apportent la touche finale à un dîner inoubliable.
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+                                        <div class=\"tripAdvisorRating fzXXXXSmall\" itemprop=\"aggregateRating\" itemscope itemtype=\"//schema.org/AggregateRating\">
+                        <div>TripAdvisor</div>
+
+                
+                                    
+
+                
+                
+    <img src=\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-21400-5.png\" alt=\"TripAdvisor\" title=\"TripAdvisor - 4.5\" />
+
+        <img class=\"is-hidden\" property=\"image\" src=\"https://media.relaischateaux.com/public/hash/6f7fc9ea9cf0c01d79af58f648fa838e5ff2a9fa\" alt=\"Ristorante Enoteca Pinchiorri\"/>
+                        
+                </div>
+                    
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">250,00</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"enoteca\"
+                   href=\"https://www.relaischateaux.com/fr/italie/enoteca-toscana-florence#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                            <div class=\"col-1-2 collapse-xxs\">
+                    
+            
+    
+<div class=\"hotelQuickView \" itemscope itemtype=\"//schema.org/Hotel\">
+
+            <div class=\"defaultSlider\">
+                    <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/bf6c4dc05e3a0b31cc4868b0147a0daaafeb5b7f\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/640e79848832d84c7732731fc351a072a80c7373\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/183c574cab52760143b956f01a285e29724696df\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/93a029205782bac02d06c230464eeab3663facd8\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/bbb37addb91df2ac3c71029bf719d9352bcd80f4\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/65247f8b5375cbae061da5d55db1ead9850748e5\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/9b0d13f778873974f437323ce092636e2f85d3dd\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/de675767a0b690b8c6b6c988b3023e067f0e1a1a\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/1cbcd510eb2d3428085eaf30b14bd6c32fa7f56c\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/e1fba01a00dcb81891066ba543fbbdaccfe42d1c\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/f6581a067db4a831ea9f58f878e8d325d563a45d\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/1c8baf857f2fd884b6eca448177e6b13b1e374cc\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/ebe91dc0cc10956aa406e989b16ae50d9691faae\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/1805166bd95c20acd2d34cb428687095ca5f901b\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/d28c66044eb01f387c05c151a1d6ee22a05b72ae\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/03b8cd6a2ebaadc929ede86aeea2b8f135684e04\" alt=\"\" class=\"mediaDetails\">
+                </div>
+            <div>
+                    <div class=\"category categoryLeft\">
+                        <span>Restaurant</span>
+                    </div>
+                    <img itemprop=\"photo\" data-lazy=\"//media.relaischateaux.com/public/hash/d31421313c836a8a380653f214979095fcdda174\" alt=\"\" class=\"mediaDetails\">
+                </div>
+                </div><!-- /.defaultSlider -->
+    
+    
+            <a href=\"https://www.relaischateaux.com/fr/reservation/popin/login\" class=\"notLogged cboxAjax addFavorite\" rel=\"nofollow\">
+            <svg class=\"icon\">
+                <use xlink:href=\"#iconFavorites\"></use>
+            </svg>
+        </a>
+    
+    <h3 class=\"mainTitle3 fzMedium cGrey noVerticalMargin\">
+                                    <a href=\"https://www.relaischateaux.com/fr/etats-unis/saison-san-francisco\"><span itemprop=\"name\">Saison</span></a>
+                        </h3>
+    <h4 class=\"mainTitle1 fzXXXSmall cGold fwBold noVerticalMargin\" itemprop=\"address\" itemscope itemtype=\"//schema.org/PostalAddress\">
+        <span itemprop=\"addressLocality\">San Francisco</span> - 
+                                <span >Californie,</span>
+                <span itemprop=\"addressCountry\">Etats-Unis</span>    </h4>
+
+    
+        <div class=\"propertyRoomFeatures\">
+        <p itemprop=\"description\">
+                        <strong>Restaurant en ville.</strong> La signature de Joshua Skenes, c'est le feu. Il a transposé le feu de camp de son enfance dans son restaurant, Saison, à San Francisco, et travaille la cuisson à la braise. C'est le meilleur moyen pour lui d'exalter le goût des ingrédients, sa préoccupation principale. Ses menus mettent en valeur les meilleurs produits qui existent, qu’il sait laisser rassir s'il le faut, à l'instar du gibier ou de certains légumes dont les saveurs seront ainsi plus concentrées. Sa cuisine est tout un savoir, tout un art qui demande surtout un temps infini ; il aime que ses hôtes en aient conscience. Mais l'atmosphère reste décontractée, rien de tel après le repas qu'un thé au sarrasin près de l’âtre flamboyant.  
+            <span class=\"learnMore\">... <em class=\"more\">En savoir plus.</em><em class=\"less\">moins</em></span>
+        </p>
+    </div>
+    
+                                        <div class=\"tripAdvisorRating fzXXXXSmall\" itemprop=\"aggregateRating\" itemscope itemtype=\"//schema.org/AggregateRating\">
+                        <div>TripAdvisor</div>
+
+                
+                                    
+
+                
+                
+    <img src=\"https://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-21400-5.png\" alt=\"TripAdvisor\" title=\"TripAdvisor - 4.5\" />
+
+        <img class=\"is-hidden\" property=\"image\" src=\"https://media.relaischateaux.com/public/hash/5d1852f07c370e46d89f85f20d51d2fe5567b33d\" alt=\"Saison\"/>
+                        
+                </div>
+                    
+                
+        
+            
+        <div class=\"priceTag\">
+                                            <div class=\"tag tagLight\">
+                    <span class=\"price\"><span class=\"price\" property=\"price\">263,83</span> <span class=\"currency\" property=\"priceCurrency\">&nbsp;€</span></span>
+                    <span class=\"note\">(à partir de)</span>
+                </div>
+                    
+                                                                <a role=\"track-compte-fav-resa\" data-name=\"saisonsf\"
+                   href=\"https://www.relaischateaux.com/fr/etats-unis/saison-san-francisco#bookStayTab\"
+                   class=\"btn btnGold btnMedium\" rel=\"nofollow\">Voir la disponibilité</a>
+                        </div>
+        </div><!-- /.hotelQuickView -->
+                </div>
+                    </div>
+        
+        
+        
+    <ul class=\"pagination\">
+                    <li class=\"prev\">
+                <a href=\"#_\" data-js-paginate=\"2\">
+                    &laquo;&nbsp;précédent
+                </a>
+            </li>
+        
+        
+                                    <li>
+                    <a href=\"#_\" data-js-paginate=\"1\">1</a>
+                </li>
+                                                <li>
+                    <a href=\"#_\" data-js-paginate=\"2\">2</a>
+                </li>
+                                                <li class=\"current\">3</li>
+                                                <li>
+                    <a href=\"#_\" data-js-paginate=\"4\">4</a>
+                </li>
+                    
+        
+                    <li class=\"next\">
+                <a href=\"#_\" data-js-paginate=\"4\">
+                    prochain&nbsp;&raquo;
+                </a>
+            </li>
+            </ul>
+
+
+<div class=\"paginationMeta\">
+    <em>21 - 30</em>
+
+    sur plus de
+
+    <span data-action=\"result-total\" data-total=\"34\">
+        34
+    </span>
+
+    résultats
+</div>
+</div>
+",
+    "total": 34
+}
