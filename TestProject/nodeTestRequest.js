@@ -27,10 +27,12 @@ var gotAllDetailsCb = function() {
 	console.log('There are '+ Object.keys(starredNames).length + " Michelin Starred Hotel-Restaurants in France: " + Object.keys(starredNames));
 };
 
-getStarredNames(1, 1, gotAllDetailsCb);
-getStarredNames(1, 2, gotAllDetailsCb);
-getStarredNames(1, 3, gotAllDetailsCb);
-getRestaurantDetails(gotAllDetailsCb);
+// getStarredNames(1, 1, gotAllDetailsCb);
+// getStarredNames(1, 2, gotAllDetailsCb);
+// getStarredNames(1, 3, gotAllDetailsCb);
+// getRestaurantDetails(gotAllDetailsCb);
+getAvailability();
+
 
 function getRestaurantDetails(gotAllDetailsCb) {
 	var xhr = new XMLHttpRequest();
@@ -46,6 +48,22 @@ function getRestaurantDetails(gotAllDetailsCb) {
 	xhr.open("GET", myUrl);
 	xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
 	xhr.send();
+}
+
+function getAvailability() {
+	var data = "{\"criteria\":{\"year\":2019,\"month\":2,\"adults\":1,\"children\":0,\"childrenAges\":\"\",\"rooms\":1,\"corporatePromotionCode\":\"\",\"travelIndustryCode\":\"\",\"numberOfMonths\":2,\"nights\":1,\"hotelId\":56232,\"hotelGroupId\":8565,\"hotelGuid\":\"8ccb1747-7330-437b-81ea-28f286ce894a\",\"hotelGroupGuid\":\"e2be85e3-0f9c-48af-bcaf-64f6222d17d0\",\"primaryChannelId\":1,\"secondaryChannelId\":5,\"customerUniqueId\":\"00000000-0000-0000-0000-000000000000\",\"BookerUniqueId\":\"00000000-0000-0000-0000-000000000000\",\"templateInstanceUniqueId\":\"be26fd50-2ea7-4c66-bbf6-f416abe74c6c\",\"roomTypeFilterCodes\":\"\",\"isRequireFilter\":false,\"includeUnassignedRatesInRateFilters\":false,\"hideAssignedRatesOnEmptyFilter\":false,\"requestedNewRates\":\"\",\"userLocationCode\":\"\",\"arrivalTicks\":636859584000000000,\"departureTicks\":636860448000000000,\"calculatePricing\":2,\"includeTaxesInPricingCalculation\":false,\"showPriceAmount\":-1,\"calendarRate\":\"\",\"currencyDisplayId\":5,\"restrictions\":\"MINLOS|MAXSTAY|NOARRIVE|NODEPART\",\"losUsedByCalendar\":2,\"membershipLevel\":\"\",\"certificates\":\"\",\"confirmNumber\":\"\",\"isSoaEnabled\":\"\",\"dayCellStyleSuffix\":\"\",\"highlightWeekendsAndHolidays\":false,\"weekendDefinition\":0,\"forceDisplayPricing\":false,\"localCalId\":6853}}";
+	var xhr = new XMLHttpRequest();
+	xhr.onreadystatechange = function() {
+		if (this.readyState === 4) {
+			var allAvailability = JSON.parse(this.responseText.substr(0));
+			console.log(allAvailability);
+		}
+	};
+	var myUrl = "https://gc.synxis.com/services/XbeService.asmx/GetCalendarAvailability";
+	xhr.open("POST", myUrl);
+	xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
+	xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+	xhr.send(data);
 }
 
 
