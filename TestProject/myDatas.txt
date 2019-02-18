@@ -1,0 +1,5593 @@
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    2  arraylength:  79  finished:  1
+page:   3   star:    1  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+albert     70823
+saintantoine     70819
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 22
+Finished Availability Requests: 21
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 30
+Finished Availability Requests: 29
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 59
+Finished Availability Requests: 58
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 62
+Finished Availability Requests: 65
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 66
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 84
+Finished Availability Requests: 86
+Finished Availability Requests: 85
+Finished Availability Requests: 83
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 93
+Finished Availability Requests: 92
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   1   star:    3  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   1   star:    3  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    1  arraylength:  40  finished:  0
+page:   2   star:    2  arraylength:  50  finished:  0
+page:   2   star:    3  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  1
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    1  arraylength:  103  finished:  2
+page:   4   star:    2  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 43
+Finished Availability Requests: 46
+Finished Availability Requests: 50
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 52
+Finished Availability Requests: 51
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 60
+Finished Availability Requests: 66
+Finished Availability Requests: 68
+Finished Availability Requests: 61
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 67
+Finished Availability Requests: 72
+Finished Availability Requests: 71
+Finished Availability Requests: 74
+Finished Availability Requests: 73
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   7   star:    2  arraylength:  152  finished:  2
+page:   6   star:    1  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 12
+Finished Availability Requests: 11
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 25
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 29
+Finished Availability Requests: 28
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 57
+Finished Availability Requests: 56
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    3  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    2  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  0
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   7   star:    2  arraylength:  152  finished:  2
+page:   6   star:    1  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 32
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    3  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  0
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+mirazur     81672
+chabichou     81671
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 17
+Finished Availability Requests: 16
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 35
+Finished Availability Requests: 34
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 40
+Finished Availability Requests: 39
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 55
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 67
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 71
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  1
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+passage53     81687
+mirazur     81672
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 40
+Finished Availability Requests: 39
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 52
+Finished Availability Requests: 51
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 70
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   1   star:    3  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   4   star:    3  arraylength:  74  finished:  0
+page:   3   star:    1  arraylength:  84  finished:  2
+page:   3   star:    2  arraylength:  93  finished:  2
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+albert     70823
+saintantoine     70819
+arnsbourg     70824
+pyramide     70853
+poste     70851
+vefour     70886
+rostang     70879
+templiers     70889
+bricourt     70899
+crayeres     70892
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 43
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   4   star:    3  arraylength:  74  finished:  1
+page:   3   star:    1  arraylength:  84  finished:  2
+page:   3   star:    2  arraylength:  93  finished:  2
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 17
+Finished Availability Requests: 16
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 32
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 56
+Finished Availability Requests: 55
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 67
+Finished Availability Requests: 66
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  1
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    1  arraylength:  103  finished:  2
+page:   4   star:    2  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 5
+Finished Availability Requests: 3
+Finished Availability Requests: 6
+Finished Availability Requests: 4
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 45
+Finished Availability Requests: 44
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 59
+Finished Availability Requests: 58
+Finished Availability Requests: 60
+Finished Availability Requests: 62
+Finished Availability Requests: 61
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 70
+Finished Availability Requests: 69
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 89
+Finished Availability Requests: 88
+Finished Availability Requests: 90
+Finished Availability Requests: 92
+Finished Availability Requests: 91
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+page:   1   star:    1  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    2  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    1  arraylength:  103  finished:  2
+page:   4   star:    2  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   4   star:    3  arraylength:  84  finished:  0
+page:   3   star:    2  arraylength:  93  finished:  2
+page:   4   star:    1  arraylength:  103  finished:  2
+page:   4   star:    2  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 14
+Finished Availability Requests: 19
+Finished Availability Requests: 18
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+albert     70823
+arnsbourg     70824
+saintantoine     70819
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 15
+Finished Availability Requests: 14
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 34
+Finished Availability Requests: 33
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 80
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   6   star:    2  arraylength:  133  finished:  2
+page:   5   star:    1  arraylength:  143  finished:  2
+page:   7   star:    2  arraylength:  152  finished:  2
+page:   6   star:    1  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 3
+Finished Availability Requests: 2
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 16
+Finished Availability Requests: 15
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 63
+Finished Availability Requests: 62
+Finished Availability Requests: 61
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 71
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 70
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+saintantoine     70819
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+chambard     81801
+taillevent     81796
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 42
+Finished Availability Requests: 41
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  0
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   1   star:    3  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  0
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   1   star:    1  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  0
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   7   star:    2  arraylength:  152  finished:  2
+page:   6   star:    1  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+albert     70823
+saintantoine     70819
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 23
+Finished Availability Requests: 26
+Finished Availability Requests: 28
+Finished Availability Requests: 27
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 47
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 49
+Finished Availability Requests: 48
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 50
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    1  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 38
+Finished Availability Requests: 37
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 65
+Finished Availability Requests: 64
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  0
+page:   4   star:    1  arraylength:  103  finished:  2
+page:   4   star:    2  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   1   star:    1  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  1
+page:   3   star:    2  arraylength:  79  finished:  1
+page:   3   star:    1  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   1   star:    1  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   4   star:    3  arraylength:  74  finished:  0
+page:   3   star:    1  arraylength:  84  finished:  1
+page:   3   star:    2  arraylength:  93  finished:  1
+page:   4   star:    1  arraylength:  103  finished:  2
+page:   4   star:    2  arraylength:  113  finished:  2
+page:   5   star:    1  arraylength:  123  finished:  2
+page:   5   star:    2  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   7   star:    1  arraylength:  172  finished:  2
+page:   8   star:    2  arraylength:  179  finished:  2
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 46
+Finished Availability Requests: 45
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 60
+Finished Availability Requests: 59
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 69
+Finished Availability Requests: 68
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 86
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 85
+Finished Availability Requests: 87
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    2  arraylength:  50  finished:  0
+page:   2   star:    1  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  1
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   7   star:    2  arraylength:  152  finished:  2
+page:   6   star:    1  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   1   star:    1  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    2  arraylength:  30  finished:  0
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+albert     70823
+saintantoine     70819
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 10
+Finished Availability Requests: 15
+Finished Availability Requests: 17
+Finished Availability Requests: 16
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 32
+Finished Availability Requests: 34
+Finished Availability Requests: 33
+Finished Availability Requests: 31
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 47
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+page:   1   star:    1  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   4   star:    3  arraylength:  74  finished:  0
+page:   3   star:    1  arraylength:  84  finished:  1
+page:   3   star:    2  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 12
+Finished Availability Requests: 11
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 18
+Finished Availability Requests: 17
+Finished Availability Requests: 16
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 23
+Finished Availability Requests: 22
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 27
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 32
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 37
+Finished Availability Requests: 36
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 55
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 67
+Finished Availability Requests: 66
+Finished Availability Requests: 69
+Finished Availability Requests: 68
+Finished Availability Requests: 70
+Finished Availability Requests: 72
+Finished Availability Requests: 71
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    3  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   4   star:    3  arraylength:  84  finished:  0
+page:   3   star:    2  arraylength:  93  finished:  1
+page:   4   star:    1  arraylength:  103  finished:  2
+page:   4   star:    2  arraylength:  113  finished:  2
+page:   5   star:    1  arraylength:  123  finished:  2
+page:   5   star:    2  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 9
+Finished Availability Requests: 8
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 15
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 18
+Finished Availability Requests: 19
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 27
+Finished Availability Requests: 26
+Finished Availability Requests: 28
+Finished Availability Requests: 29
+Finished Availability Requests: 32
+Finished Availability Requests: 30
+Finished Availability Requests: 31
+Finished Availability Requests: 33
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 39
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 40
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 47
+Finished Availability Requests: 46
+Finished Availability Requests: 48
+Finished Availability Requests: 50
+Finished Availability Requests: 49
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 66
+Finished Availability Requests: 67
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 83
+Finished Availability Requests: 86
+Finished Availability Requests: 87
+Finished Availability Requests: 88
+Finished Availability Requests: 84
+Finished Availability Requests: 89
+Finished Availability Requests: 90
+Finished Availability Requests: 91
+Finished Availability Requests: 85
+page:   1   star:    3  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    1  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  1
+page:   3   star:    1  arraylength:  80  finished:  1
+page:   3   star:    2  arraylength:  89  finished:  1
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   1   star:    1  arraylength:  10  finished:  0
+page:   1   star:    2  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  0
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   1   star:    2  arraylength:  10  finished:  0
+page:   1   star:    1  arraylength:  20  finished:  0
+page:   1   star:    3  arraylength:  30  finished:  0
+page:   2   star:    3  arraylength:  40  finished:  0
+page:   2   star:    1  arraylength:  50  finished:  0
+page:   2   star:    2  arraylength:  60  finished:  0
+page:   3   star:    3  arraylength:  70  finished:  0
+page:   3   star:    1  arraylength:  80  finished:  0
+page:   3   star:    2  arraylength:  89  finished:  0
+page:   4   star:    3  arraylength:  93  finished:  1
+page:   4   star:    2  arraylength:  103  finished:  2
+page:   4   star:    1  arraylength:  113  finished:  2
+page:   5   star:    2  arraylength:  123  finished:  2
+page:   5   star:    1  arraylength:  133  finished:  2
+page:   6   star:    2  arraylength:  143  finished:  2
+page:   6   star:    1  arraylength:  153  finished:  2
+page:   7   star:    2  arraylength:  162  finished:  2
+page:   8   star:    2  arraylength:  169  finished:  2
+page:   7   star:    1  arraylength:  179  finished:  3
+page:   8   star:    1  arraylength:  189  finished:  3
+page:   9   star:    1  arraylength:  199  finished:  3
+page:   10   star:    1  arraylength:  209  finished:  3
+page:   11   star:    1  arraylength:  213  finished:  3
+Called back: 213 Michelin Restaurants and all of their details downloaded.
+saintantoine     70819
+albert     70823
+arnsbourg     70824
+poste     70851
+pyramide     70853
+rostang     70879
+vefour     70886
+templiers     70889
+crayeres     70892
+bricourt     70899
+hautesroches     70912
+hauts-loire     70915
+liondor     70916
+coutanceau     70917
+chapelle     70920
+moulin     70923
+vieuxlogis     70925
+treyne     70927
+mercues     70931
+aubergade     70932
+cordeillan     70933
+stjames     70934
+guerard     70935
+auriac     70940
+adomenil     70942
+crocodile     70943
+lorain     70947
+loiseau     70949
+levernois     70950
+lameloise     70951
+blanc     70954
+troisgros     70956
+codignat     70957
+cimes     70959
+orsi     70961
+florentine     70962
+pic     70964
+bise     70969
+bonneetape     70977
+leprieure     70984
+baumaniere     70987
+passedat     70991
+chevredor     71001
+lavilla     71002
+gill     71223
+oasis     71232
+basrupts     81275
+plaisance     81308
+phebus     81325
+rochevilaine     81355
+mirambeau     81411
+catelan     81440
+aubergedelile     81450
+bussiere     81461
+castellet     81462
+chateaubeaulieu     81464
+brittany     81465
+flocons     81482
+bagnols     81483
+berne     81516
+tropez     81517
+minimes     81519
+alexandre     81547
+antibes     81549
+montecarlo     81550
+capelongue     81602
+decoret     81615
+annedebretagne     81627
+labastide     81639
+saintjames-paris     81640
+lassausaie     81641
+chabichou     81671
+mirazur     81672
+passage53     81687
+lagrenouillere     81688
+jeudepaume     81709
+thierrydrapeau     81733
+maisonduzes     81750
+gagnaire     81756
+lucascarton     81759
+yoannconte     81769
+taillevent     81796
+chambard     81801
+grandemaison     81802
+champenoise     81816
+lalique     81824
+archange     81831
+clarance-hotel     81837
+maison-doucet     81838
+clos-des-sens     81840
+la-bouitte     81841
+aubergebasque     81861
+glazicks     81868
+valmer     81883
+ile-lagune     81913
+There are 95 Michelin Starred Hotel-Restaurants in France.
+Get infos on prices and availability.
+Finished Availability Requests: 1
+Finished Availability Requests: 2
+Finished Availability Requests: 3
+Finished Availability Requests: 4
+Finished Availability Requests: 5
+Finished Availability Requests: 6
+Finished Availability Requests: 7
+Finished Availability Requests: 8
+Finished Availability Requests: 9
+Finished Availability Requests: 10
+Finished Availability Requests: 11
+Finished Availability Requests: 12
+Finished Availability Requests: 13
+Finished Availability Requests: 14
+Finished Availability Requests: 16
+Finished Availability Requests: 17
+Finished Availability Requests: 15
+Finished Availability Requests: 19
+Finished Availability Requests: 18
+Finished Availability Requests: 20
+Finished Availability Requests: 21
+Finished Availability Requests: 22
+Finished Availability Requests: 23
+Finished Availability Requests: 24
+Finished Availability Requests: 25
+Finished Availability Requests: 26
+Finished Availability Requests: 28
+Finished Availability Requests: 27
+Finished Availability Requests: 29
+Finished Availability Requests: 30
+Finished Availability Requests: 32
+Finished Availability Requests: 31
+Finished Availability Requests: 34
+Finished Availability Requests: 35
+Finished Availability Requests: 33
+Finished Availability Requests: 36
+Finished Availability Requests: 37
+Finished Availability Requests: 38
+Finished Availability Requests: 40
+Finished Availability Requests: 39
+Finished Availability Requests: 41
+Finished Availability Requests: 42
+Finished Availability Requests: 43
+Finished Availability Requests: 44
+Finished Availability Requests: 45
+Finished Availability Requests: 46
+Finished Availability Requests: 47
+Finished Availability Requests: 48
+Finished Availability Requests: 49
+Finished Availability Requests: 50
+Finished Availability Requests: 51
+Finished Availability Requests: 52
+Finished Availability Requests: 53
+Finished Availability Requests: 54
+Finished Availability Requests: 55
+Finished Availability Requests: 56
+Finished Availability Requests: 57
+Finished Availability Requests: 58
+Finished Availability Requests: 59
+Finished Availability Requests: 60
+Finished Availability Requests: 61
+Finished Availability Requests: 62
+Finished Availability Requests: 63
+Finished Availability Requests: 64
+Finished Availability Requests: 65
+Finished Availability Requests: 67
+Finished Availability Requests: 66
+Finished Availability Requests: 68
+Finished Availability Requests: 69
+Finished Availability Requests: 70
+Finished Availability Requests: 71
+Finished Availability Requests: 72
+Finished Availability Requests: 73
+Finished Availability Requests: 74
+Finished Availability Requests: 75
+Finished Availability Requests: 76
+Finished Availability Requests: 77
+Finished Availability Requests: 78
+Finished Availability Requests: 79
+Finished Availability Requests: 80
+Finished Availability Requests: 81
+Finished Availability Requests: 82
+Finished Availability Requests: 83
+Finished Availability Requests: 84
+Finished Availability Requests: 85
+Finished Availability Requests: 86
+Finished Availability Requests: 88
+Finished Availability Requests: 87
+Finished Availability Requests: 90
+Finished Availability Requests: 89
+Finished Availability Requests: 91
+Finished Availability Requests: 92
+Finished Availability Requests: 93
+Finished Availability Requests: 94
+Finished Availability Requests: 95
+22/2 - 24/2: 160EUR is the minimum price.
+1/2 - 3/3: 130EUR is the minimum price.
+8/2 - 10/3: 160EUR is the minimum price.
+15/2 - 17/3: 160EUR is the minimum price.
+22/2 - 24/3: 153EUR is the minimum price.
+5/2 - 7/4: 130EUR is the minimum price.
+1/3 - 31/3: 130EUR is the minimum price.
+12/2 - 14/4: 130EUR is the minimum price.
+19/2 - 21/4: 154EUR is the minimum price.
+26/2 - 28/4: 141EUR is the minimum price.
+3/2 - 5/5: 156EUR is the minimum price.
+10/2 - 12/5: 130EUR is the minimum price.
+17/2 - 19/5: 141EUR is the minimum price.
+24/2 - 26/5: 135EUR is the minimum price.
+31/1 - 2/6: 151EUR is the minimum price.
+7/2 - 9/6: 160EUR is the minimum price.
+14/2 - 16/6: 139EUR is the minimum price.
+21/2 - 23/6: 130EUR is the minimum price.
+28/2 - 30/6: 141EUR is the minimum price.
+5/2 - 7/7: 137EUR is the minimum price.
+12/2 - 14/7: 134EUR is the minimum price.
+19/2 - 21/7: 160EUR is the minimum price.
+26/2 - 28/7: 156EUR is the minimum price.
+2/2 - 4/8: 132EUR is the minimum price.
+9/2 - 11/8: 132EUR is the minimum price.
+16/2 - 18/8: 130EUR is the minimum price.
+23/2 - 25/8: 130EUR is the minimum price.
+30/1 - 1/9: 132EUR is the minimum price.
+6/2 - 8/9: 130EUR is the minimum price.
+13/2 - 15/9: 132EUR is the minimum price.
+20/2 - 22/9: 160EUR is the minimum price.
+27/2 - 29/9: 139EUR is the minimum price.
+4/2 - 6/10: 130EUR is the minimum price.
+11/2 - 13/10: 130EUR is the minimum price.
+18/2 - 20/10: 130EUR is the minimum price.
+25/2 - 27/10: 130EUR is the minimum price.
+1/2 - 3/11: 132EUR is the minimum price.
+8/2 - 10/11: 130EUR is the minimum price.
+15/2 - 17/11: 130EUR is the minimum price.
+22/2 - 24/11: 130EUR is the minimum price.
+30/1 - 1/12: 130EUR is the minimum price.
+6/2 - 8/12: 130EUR is the minimum price.
+13/2 - 15/12: 135EUR is the minimum price.
+20/2 - 22/12: 130EUR is the minimum price.
+27/2 - 29/12: 130EUR is the minimum price.

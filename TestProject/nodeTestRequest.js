@@ -3,11 +3,64 @@ const YEAR = 2019;
 const LOAD_FUNCTIONS_TO_WAIT = 4;
 const NOT_AVAILABLE_CONST = 99999;
 const RESTAURANTS_PER_PAGE_MICHELIN = 10;
+const fs = require('fs');
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 let jsdom = require('jsdom').JSDOM;
 var finishedCount = 0;
 var starredNames = [];
+var keysNames = [];
+var keysImages = [];
 var allDetails;
+
+function overWriteFile(fileName, myText) {
+	fs.writeFile(fileName, myText, (err) => { 
+		if (err) throw err;
+	});
+}
+
+function appendFile(fileName, myText) {
+	fs.appendFile(fileName, myText, (err) => { 
+		if (err) throw err;
+	});
+}     
+	
+var returnHtml = function() {
+	var http = require('http');
+	fs.readFile('./ui.html', function (err, html) {
+		if (err) {
+			throw err; 
+		}  
+		http.createServer(function(request, response) {  
+			response.writeHeader(200, {"Content-Type": "text/html"});  
+			response.write(html);  
+			response.end();  
+		}).listen(1337);
+	});
+	console.log('Server running at http://127.0.0.1:1337/');
+}
+
+
+function startFile() {
+	fs.readFile('./ui3.html', function (err, html) {
+		if (err) {
+			throw err; 
+		} 
+		overWriteFile('ui.html', html);
+	});
+}
+
+function endFile() {
+	fs.readFile('./ui2.html', function (err, html) {
+		if (err) {
+			throw err; 
+		} 
+		fs.appendFile('ui.html', html, (err) => { 
+			if (err) throw err;
+			returnHtml();
+		});
+		
+	});
+}
 
 class Weekend {
   constructor(startDay, startMonth, endDay, endMonth) {
@@ -51,11 +104,19 @@ class Weekend {
 	  var myPrices = this._prices;
 	  return Object.keys(myPrices).map(function(key) {return myPrices[key];}).reduce(function(last, next) {return last < next ? last : next;}, Infinity); 
   }
+  get minPriceKey() {
+	  var myPrices = this._prices;
+	  var minKey = -1;
+	  Object.keys(myPrices).map(function(key) {return myPrices[key];}).reduce(function(last, next) {minKey = last < next ? key : minKey; return last < next ? last : next;}, Infinity); 
+		return minKey;
+  }
   printDate() {
 	return '' + this._startDay + '/' + this._startMonth + " - " + this._endDay + '/' + this._endMonth;
   }
 }
 
+
+startFile();
 var weekends = [];
 setWeekends();
 
@@ -85,6 +146,8 @@ var gotAllDetailsCb = function() {
 		if(starredNames[allDetails[keys[i]].RC_CODE]) {
 			if(allDetails[keys[i]].countryName == "France" && starredNames[allDetails[keys[i]].RC_HOTEL] != "0") {
 				starredNames[allDetails[keys[i]].RC_CODE] = keys[i];
+				keysNames[allDetails[keys[i]].RC_CODE] = allDetails[keys[i]].RC_NOM_L;
+				keysImages[allDetails[keys[i]].RC_CODE] = allDetails[keys[i]].img;
 				console.log(allDetails[keys[i]].RC_CODE + "     " + keys[i]);
 			} else {
 				delete starredNames[allDetails[keys[i]].RC_CODE];
@@ -145,8 +208,10 @@ var gotAvailibilityDetails = function(keys, i, myObject) {
 
 function printResult() {
 	for (var weekendIndex = 0; weekendIndex < weekends.length; weekendIndex++) {
-		console.log(weekends[weekendIndex].printDate() + ": " + weekends[weekendIndex].minPrice) + "EUR is the minimum price.";
+		appendFile('ui.html', '<div class="row"><div class="col-md-1">1.</div><div class="col-md-2">image</div><div class="col-md-2">' + weekends[weekendIndex].printDate() + '</div><div class="col-md-2"></div><div class="col-md-3">Name of Hotel2</div><div class="col-md-2">' + weekends[weekendIndex].minPrice + '</div></div>');
+		console.log(weekends[weekendIndex].printDate() + ": " + weekends[weekendIndex].minPrice + "EUR is the minimum price." + weekends[weekendIndex].minKey);
 	}
+	endFile();
 }
 
 var finishedAvailabilityRequestCount = 0;
