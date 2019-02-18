@@ -1,4 +1,5 @@
 'use strict';
+const YEAR = 2019;
 const LOAD_FUNCTIONS_TO_WAIT = 4;
 const RESTAURANTS_PER_PAGE_MICHELIN = 10;
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
@@ -6,6 +7,73 @@ let jsdom = require('jsdom').JSDOM;
 var finishedCount = 0;
 var starredNames = [];
 var allDetails;
+
+class Weekend {
+  constructor(startDay, startMonth, endDay, endMonth) {
+    this._startDay = startDay;
+    this._startMonth = startMonth;
+    this._endDay = endDay;
+    this._endMonth = endMonth;
+  }
+  set startMonth(m) {
+    this._startMonth = m;
+  }
+  get startMonth() {
+    return this._startMonth;
+  }
+  set endMonth(m) {
+    this._endMonth = m;
+  }
+  get endMonth() {
+    return this._endMonth;
+  }
+  set startDay(d) {
+    this._startDay = d;
+  }
+  get startDay() {
+    return this._startDay;
+  }
+  set endDay(d) {
+    this._endDay = d;
+  }
+  get endDay() {
+    return this._endDay;
+  }
+  setPrice(restaurant, price) {
+	  this._prices[restaurant] = price;
+  }
+  getPrice(restaurant) {
+	  return this._prices[restaurant];
+  }
+  get minPrice() {
+	  return Object.keys(_prices).map(function(key) {return _prices[key];}).reduce(function(last, next) {return last < next ? last : next;}, Infinity); 
+  }
+  printDate() {
+    console.log('' + this.startDay + '/' + this.startMonth + " - " + this.endDay + '/' + this.endMonth);
+  }
+}
+
+var weekends = [];
+setWeekends();
+
+function setWeekends() {
+	var today = new Date();
+	var date = new Date();
+	while (date.getDay() != 5) {
+		date.setDate(date.getDate() + 1);
+	}
+	date.setDate(date.getDate() + 2);
+	while (date.getFullYear() == today.getFullYear()) {
+		var friday = new Date();
+		friday.setDate(date.getDate() - 2);
+		var startMonth = friday.getMonth() + 1;
+		var startDay = friday.getDate();
+		var endMonth = date.getMonth() + 1;
+		var endDay = date.getDate();
+		weekends.push(new Weekend(startDay, startMonth, endDay, endMonth));
+		date.setDate(date.getDate() + 7);
+	}
+}
 
 var gotAllDetailsCb = function() {
 	console.log('Called back: '+ Object.keys(starredNames).length + " Michelin Restaurants and all of their details downloaded.");
@@ -31,7 +99,7 @@ var gotAllDetailsCb = function() {
 // getStarredNames(1, 2, gotAllDetailsCb);
 // getStarredNames(1, 3, gotAllDetailsCb);
 // getRestaurantDetails(gotAllDetailsCb);
-getAvailability();
+// getAvailability();
 
 
 function getRestaurantDetails(gotAllDetailsCb) {
