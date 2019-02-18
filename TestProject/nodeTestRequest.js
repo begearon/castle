@@ -123,13 +123,27 @@ function getAvailability() {
 	var data = "{\"criteria\":{\"month\":" + month + ",\"numberOfMonths\":" + (13-month) + ",\"year\":" + 2019 + ",\"adults\":1,\"rooms\":1,\"nights\":2,\"hotelId\":56232,\"primaryChannelId\":1,\"secondaryChannelId\":5,\"templateInstanceUniqueId\":\"be26fd50-2ea7-4c66-bbf6-f416abe74c6c\",\"calculatePricing\":2,\"currencyDisplayId\":5,\"restrictions\":\"MINLOS|MAXSTAY|NOARRIVE|NODEPART\",\"localCalId\":6853}}";	var xhr = new XMLHttpRequest();
 	xhr.onreadystatechange = function() {
 		if (this.readyState === 4) {
-			var allAvailability = JSON.parse(this.responseText.substr(0));
-			console.log(allAvailability['d'][7]);
+			var allAvailability = JSON.parse(this.responseText);
+			// var nextArray = allAvailability['d'][7].toString().replace("\u0027",'\"');
+			// var myString = this.responseText.replace('\\','');
+			// for(var i = 0; i < myString.length; i++) {
+				// if(myString[i] == "\") myString[i] = ' ';
+			// }
+			var ne = JSON.stringify(allAvailability['d'][7]).replace(/[^\d,-]/g,'').split(",");;
+			for(var i = 0; i < ne.length; i++) {
+				ne[i] = parseInt(ne[i]) || 0;
+				console.log(ne[i]);
+			}
+			
+			// var nextArray = allAvailability['d'][7][11];
+			//var nextArray1 = JSON.parse(allAvailability['d'][7].toString());
+			// console.log(myString);
 		}
 	};
 	var myUrl = "https://gc.synxis.com/services/XbeService.asmx/GetCalendarAvailability";
 	xhr.open("POST", myUrl);
-	xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
+	xhr.setRequestHeader("Content-Type", "application/json; charset=utf8");
+	xhr.setRequestHeader("cache-control", "no-cache");
 	xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
 	xhr.send(data);
 }
