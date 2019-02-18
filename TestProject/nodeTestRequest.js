@@ -216,7 +216,7 @@ var gotAvailibilityDetails = function(keys, i, myObject) {
 function printResult() {
 	for (var weekendIndex = 0; weekendIndex < weekends.length; weekendIndex++) {
 		appendFile('ui.html', '<div class="row"><div class="col-md-1">' + (weekendIndex+1) + '.</div><div class="col-md-2"><a href="' + keysImages[weekends[weekendIndex].minPriceKey] + '">image</a></div><div class="col-md-2">' + weekends[weekendIndex].printDate() + '</div><div class="col-md-2"></div><div class="col-md-3">' + keysNames[weekends[weekendIndex].minPriceKey] + '</div><div class="col-md-2">' + weekends[weekendIndex].minPrice + ' EUR</div></div>');
-		console.log(weekends[weekendIndex].printDate() + ": " + weekends[weekendIndex].minPrice + "EUR is the minimum price. (at " + weekends[weekendIndex].minPriceKey) + ")";
+		console.log(weekends[weekendIndex].printDate() + ": " + weekends[weekendIndex].minPrice + "EUR is the minimum price. (at " + weekends[weekendIndex].minPriceKey + ")");
 	}
 	endFile();
 }
