@@ -1,6 +1,7 @@
 'use strict';
 const YEAR = 2019;
 const LOAD_FUNCTIONS_TO_WAIT = 4;
+const NOT_AVAILABLE_CONST = 99999;
 const RESTAURANTS_PER_PAGE_MICHELIN = 10;
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 let jsdom = require('jsdom').JSDOM;
@@ -14,6 +15,7 @@ class Weekend {
     this._startMonth = startMonth;
     this._endDay = endDay;
     this._endMonth = endMonth;
+	this._prices = [];
   }
   set startMonth(m) {
     this._startMonth = m;
@@ -46,10 +48,11 @@ class Weekend {
 	  return this._prices[restaurant];
   }
   get minPrice() {
-	  return Object.keys(_prices).map(function(key) {return _prices[key];}).reduce(function(last, next) {return last < next ? last : next;}, Infinity); 
+	  var myPrices = this._prices;
+	  return Object.keys(myPrices).map(function(key) {return myPrices[key];}).reduce(function(last, next) {return last < next ? last : next;}, Infinity); 
   }
   printDate() {
-    console.log('' + this.startDay + '/' + this.startMonth + " - " + this.endDay + '/' + this.endMonth);
+	return '' + this._startDay + '/' + this._startMonth + " - " + this._endDay + '/' + this._endMonth;
   }
 }
 
@@ -92,14 +95,14 @@ var gotAllDetailsCb = function() {
 	for (var i = 0; i < keys.length; i++) { //deleting all the restaurants, who are not in the members list
 		if(starredNames[keys[i]] < 0) delete starredNames[keys[i]];
 	}
-	console.log('There are '+ Object.keys(starredNames).length + " Michelin Starred Hotel-Restaurants in France: " + Object.keys(starredNames));
+	console.log('There are '+ Object.keys(starredNames).length + " Michelin Starred Hotel-Restaurants in France.");
+	getAvailability();
 };
 
-// getStarredNames(1, 1, gotAllDetailsCb);
-// getStarredNames(1, 2, gotAllDetailsCb);
-// getStarredNames(1, 3, gotAllDetailsCb);
-// getRestaurantDetails(gotAllDetailsCb);
-getAvailability();
+getStarredNames(1, 1, gotAllDetailsCb);
+getStarredNames(1, 2, gotAllDetailsCb);
+getStarredNames(1, 3, gotAllDetailsCb);
+getRestaurantDetails(gotAllDetailsCb);
 
 
 function getRestaurantDetails(gotAllDetailsCb) {
@@ -118,34 +121,56 @@ function getRestaurantDetails(gotAllDetailsCb) {
 	xhr.send();
 }
 
-function getAvailability() {
-	var month = weekends[0].startMonth;
-	var data = "{\"criteria\":{\"month\":" + month + ",\"numberOfMonths\":" + (13-month) + ",\"year\":" + 2019 + ",\"adults\":1,\"rooms\":1,\"nights\":2,\"hotelId\":56232,\"primaryChannelId\":1,\"secondaryChannelId\":5,\"templateInstanceUniqueId\":\"be26fd50-2ea7-4c66-bbf6-f416abe74c6c\",\"calculatePricing\":2,\"currencyDisplayId\":5,\"restrictions\":\"MINLOS|MAXSTAY|NOARRIVE|NODEPART\",\"localCalId\":6853}}";	var xhr = new XMLHttpRequest();
-	xhr.onreadystatechange = function() {
-		if (this.readyState === 4) {
-			var allAvailability = JSON.parse(this.responseText);
-			// var nextArray = allAvailability['d'][7].toString().replace("\u0027",'\"');
-			// var myString = this.responseText.replace('\\','');
-			// for(var i = 0; i < myString.length; i++) {
-				// if(myString[i] == "\") myString[i] = ' ';
-			// }
-			var ne = JSON.stringify(allAvailability['d'][7]).replace(/[^\d,-]/g,'').split(",");;
-			for(var i = 0; i < ne.length; i++) {
-				ne[i] = parseInt(ne[i]) || 0;
-				console.log(ne[i]);
-			}
-			
-			// var nextArray = allAvailability['d'][7][11];
-			//var nextArray1 = JSON.parse(allAvailability['d'][7].toString());
-			// console.log(myString);
+var gotAvailibilityDetails = function(keys, i, myObject) {
+	if (myObject.readyState === 4) {
+		var allAvailability = JSON.parse(myObject.responseText);
+		var myArray = JSON.stringify(allAvailability['d'][7]).replace(/[^\d,]/g,'').split(",");;
+		for(var k = 0; k < myArray.length; k++) {
+			myArray[k] = parseInt(myArray[k]) || 0;
 		}
-	};
+		var j = 0;
+		while (myArray[j] != weekends[0].startMonth || myArray[j+1] != weekends[0].startDay || myArray[j+6] != weekends[0].endMonth || myArray[j+7] != weekends[0].endDay) {
+			j += 3;
+		} //set the array to the first weekend's date
+		for (var weekendIndex = 0; weekendIndex < weekends.length; weekendIndex++) {
+			if(myArray[j+2] && myArray[j+5]) weekends[weekendIndex].setPrice(keys[i], myArray[j+2] + myArray[j+5]);
+			else weekends[weekendIndex].setPrice(keys[i], NOT_AVAILABLE_CONST);
+			j += 21;
+		}
+		finishedAvailabilityRequestCount++;
+		console.log("Finished Availability Requests: " + finishedAvailabilityRequestCount);
+		if(finishedAvailabilityRequestCount == availabilityRequestNumber) printResult();
+	}
+}
+
+function printResult() {
+	for (var weekendIndex = 0; weekendIndex < weekends.length; weekendIndex++) {
+		console.log(weekends[weekendIndex].printDate() + ": " + weekends[weekendIndex].minPrice) + "EUR is the minimum price.";
+	}
+}
+
+var finishedAvailabilityRequestCount = 0;
+var availabilityRequestNumber = 0;
+
+function getAvailability() {
+	console.log("Get infos on prices and availability.");
+	var keys = Object.keys(starredNames);
+	var month = weekends[0].startMonth;
 	var myUrl = "https://gc.synxis.com/services/XbeService.asmx/GetCalendarAvailability";
-	xhr.open("POST", myUrl);
-	xhr.setRequestHeader("Content-Type", "application/json; charset=utf8");
-	xhr.setRequestHeader("cache-control", "no-cache");
-	xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-	xhr.send(data);
+	var i = 0;
+	availabilityRequestNumber = keys.length;
+	for (i = 0; i < keys.length; i++) {
+		var data = "{\"criteria\":{\"month\":" + month + ",\"numberOfMonths\":" + (13-month) + ",\"year\":" + 2019 + ",\"adults\":1,\"rooms\":1,\"nights\":2,\"hotelId\":" + starredNames[keys[i]] + ",\"primaryChannelId\":1,\"secondaryChannelId\":5,\"templateInstanceUniqueId\":\"be26fd50-2ea7-4c66-bbf6-f416abe74c6c\",\"calculatePricing\":2,\"currencyDisplayId\":5,\"restrictions\":\"MINLOS|MAXSTAY|NOARRIVE|NODEPART\",\"localCalId\":6853}}";
+		var xhr = new XMLHttpRequest();
+		const o = i;
+		xhr.onreadystatechange = function() { gotAvailibilityDetails(keys, o, this);};
+		
+		xhr.open("POST", myUrl);
+		xhr.setRequestHeader("Content-Type", "application/json; charset=utf8");
+		xhr.setRequestHeader("cache-control", "no-cache");
+		xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+		xhr.send(data);	
+	}
 }
 
 
