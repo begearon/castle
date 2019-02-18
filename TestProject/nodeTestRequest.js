@@ -37,6 +37,7 @@ var returnHtml = function() {
 		}).listen(1337);
 	});
 	console.log('Server running at http://127.0.0.1:1337/');
+	console.log('Open it in a browser and see the best offers for each weekend!');
 }
 
 
@@ -105,10 +106,13 @@ class Weekend {
 	  return Object.keys(myPrices).map(function(key) {return myPrices[key];}).reduce(function(last, next) {return last < next ? last : next;}, Infinity); 
   }
   get minPriceKey() {
-	  var myPrices = this._prices;
-	  var minKey = -1;
-	  Object.keys(myPrices).map(function(key) {return myPrices[key];}).reduce(function(last, next) {minKey = last < next ? key : minKey; return last < next ? last : next;}, Infinity); 
-		return minKey;
+	var min = -1;
+	for(var myKey in this._prices) {
+		if(this._prices[myKey] < min) {
+			min = myKey;
+		}    
+	}
+	return min;
   }
   printDate() {
 	return '' + this._startDay + '/' + this._startMonth + " - " + this._endDay + '/' + this._endMonth;
@@ -208,8 +212,8 @@ var gotAvailibilityDetails = function(keys, i, myObject) {
 
 function printResult() {
 	for (var weekendIndex = 0; weekendIndex < weekends.length; weekendIndex++) {
-		appendFile('ui.html', '<div class="row"><div class="col-md-1">1.</div><div class="col-md-2">image</div><div class="col-md-2">' + weekends[weekendIndex].printDate() + '</div><div class="col-md-2"></div><div class="col-md-3">Name of Hotel2</div><div class="col-md-2">' + weekends[weekendIndex].minPrice + '</div></div>');
-		console.log(weekends[weekendIndex].printDate() + ": " + weekends[weekendIndex].minPrice + "EUR is the minimum price." + weekends[weekendIndex].minKey);
+		appendFile('ui.html', '<div class="row"><div class="col-md-1">1.</div><div class="col-md-2">image</div><div class="col-md-2">' + weekends[weekendIndex].printDate() + '</div><div class="col-md-2"></div><div class="col-md-3">' + keysNames[weekends[weekendIndex].minPriceKey] + '</div><div class="col-md-2">' + weekends[weekendIndex].minPrice + '</div></div>');
+		console.log(weekends[weekendIndex].printDate() + ": " + weekends[weekendIndex].minPrice + "EUR is the minimum price." + weekends[weekendIndex].minPriceKey);
 	}
 	endFile();
 }
