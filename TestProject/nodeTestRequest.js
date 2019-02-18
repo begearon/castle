@@ -106,10 +106,13 @@ class Weekend {
 	  return Object.keys(myPrices).map(function(key) {return myPrices[key];}).reduce(function(last, next) {return last < next ? last : next;}, Infinity); 
   }
   get minPriceKey() {
-	var min = -1;
-	for(var myKey in this._prices) {
-		if(this._prices[myKey] < min) {
-			min = myKey;
+	var min;
+	var myPrices = this._prices;
+	var myKeys = Object.keys(myPrices);
+	  min = myKeys[0];
+	for (var p = 0; p < myKeys.length; p++) {
+		if(myPrices[myKeys[p]] < myPrices[min]) {
+			min = myKeys[p];
 		}    
 	}
 	return min;
@@ -212,7 +215,7 @@ var gotAvailibilityDetails = function(keys, i, myObject) {
 
 function printResult() {
 	for (var weekendIndex = 0; weekendIndex < weekends.length; weekendIndex++) {
-		appendFile('ui.html', '<div class="row"><div class="col-md-1">1.</div><div class="col-md-2">image</div><div class="col-md-2">' + weekends[weekendIndex].printDate() + '</div><div class="col-md-2"></div><div class="col-md-3">' + keysNames[weekends[weekendIndex].minPriceKey] + '</div><div class="col-md-2">' + weekends[weekendIndex].minPrice + '</div></div>');
+		appendFile('ui.html', '<div class="row"><div class="col-md-1">1.</div><div class="col-md-2"><a href="' + keysImages[weekends[weekendIndex].minPriceKey] + '">image</a></div><div class="col-md-2">' + weekends[weekendIndex].printDate() + '</div><div class="col-md-2"></div><div class="col-md-3">' + keysNames[weekends[weekendIndex].minPriceKey] + '</div><div class="col-md-2">' + weekends[weekendIndex].minPrice + ' EUR</div></div>');
 		console.log(weekends[weekendIndex].printDate() + ": " + weekends[weekendIndex].minPrice + "EUR is the minimum price." + weekends[weekendIndex].minPriceKey);
 	}
 	endFile();
